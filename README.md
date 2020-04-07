@@ -16,6 +16,6 @@ Este desafio foi construido na plataforma Postman, utilizando a [API fornecida](
     [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/01a18f4a2110bc50eba2#?env%5BDesafio%20-%20Wealth%20Systems%5D=W3sia2V5IjoidXNlcl9pZCIsInZhbHVlIjoiNCIsImVuYWJsZWQiOnRydWV9LHsia2V5IjoidXJsIiwidmFsdWUiOiJodHRwOi8vanNvbnBsYWNlaG9sZGVyLnR5cGljb2RlLmNvbS91c2VycyIsImVuYWJsZWQiOnRydWV9XQ==)
     > Quando acessado, ele deverá abrir o aplicativo do Postman, já importando o código necessário.
     
-2.  Com o aplicativo do Postman aberto, deverá então dar "Send" nas 4 requisições criadas à API. Logo abaixo, verá uma guia "test", onde irá conter os logs dos tests criados.
+2.  Com o aplicativo do Postman aberto, deverá então dar "Send" nas 4 requisições criadas à API. *Ou clicar no botão "Runner" na parte superior*. Logo abaixo, verá uma guia "Tests Results", onde irá conter os logs dos tests criados.
 
     Para ver os códigos gerados pelos tests, vá até a guia "Tests".
