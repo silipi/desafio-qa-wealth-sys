@@ -15,17 +15,20 @@ A resolução deste desafio foi desenvolvida com o [TestCafé ☕️](https://de
         
         npm install -g testcafe
     
-2.  Faça o download dos arquivos test1.js e test2.js que se encontram na pasta "desafio-2" deste repositório.
+2.  Faça o download dos arquivos test1.js e test2.js que se encontram na pasta "desafio-2" deste repositório. Cada um destes testes são referentes aos links propostos.
 
-3.  Abra o seu editor de texto preferido e/ou o prompt de comando do seu computador ou do editor e execute os seguintes códigos:
+3.  Abra o seu editor de texto preferido e/ou o prompt de comando do seu computador ou do editor na pasta onde foi salvo os dois arquivos anteriores e execute os seguintes códigos:
     
         testcafe chrome test1.js
         
         testcafe chrome test2.js
         
-Ele deverá abrir uma instancia do navegador Chrome (pode trocar para outros navegadores, se desejar) onde irá rodar um servidor local, com o link inserido pelo teste, e os resultados serão exibidos no prompt de comando/terminal que está usando conforme imagem abaixo:
+Ele deverá abrir uma instancia do navegador Chrome (pode trocar para outros navegadores, se desejar) onde irá rodar um servidor local, com o link inserido pelo teste, e os resultados serão exibidos no prompt de comando/terminal que está usando, conforme imagem abaixo:
 
-![Output do terminal no Visual Studio Code](./images/scrsht_test1_output.png)
+![Output do terminal no Visual Studio Code](./images/scrsht_test1_output.png "Output do terminal no Visual Studio Code")
+
+O mesmo poderá ser observado para o test2.js;
+
 ---
 
 ## Desafio 3 - Automação de 1 funcionalidade back-end.
@@ -41,4 +44,10 @@ Este desafio foi resolvido com a construção da resolução na plataforma Postm
     
 2.  Com o aplicativo do Postman aberto, deverá então dar "Send" nas 4 requisições criadas à API. *Ou clicar no botão "Runner" na parte superior*. Logo abaixo, verá uma guia "Tests Results", onde irá conter os logs dos tests criados.
 
+    ![Tests Results](./images/scrsht_postman_testresults.png "Tests Results")
+
     Para ver os códigos gerados pelos tests, vá até a guia "Tests".
+
+    ![Tests Codes](./images/scrsht_postman_tests.png "Tests Codes")
+
+    
