@@ -1,7 +1,17 @@
-# desafio-qa-wealth-sys
+# desafio-qa-wealth-sys 🚀
 Meu projeto para o desafio proposto pela Wealth Systems para a vaga de Analista de QA.
 
 ## Desafio 1 - Cenários de testes.
+
+A resolução deste desafio foi desenvolvida no Visual Studio Code, com os cenários de testes escritos em Gherkin, **em inglês** (para aproveitar melhor o highlighting do código e sintáxe), analisando o protótipo fornecido, descrevendo 3 features, com 2 cenários em cada uma delas, totalizando 6 cenários de testes para a imagem.
+
+> Se necessário a versão em português dos cenários, poderei fornecer, reescrevendo e atualizando o repositório.
+
+![Scenarios](./images/scrrec_feat.gif "Scenarios")
+
+Para poder visualiza-los, poderá acessar a pasta "desafio-1" deste repositório e abrir os arquivos diretamente no Github, ou realizar o download da pasta e abrir com um editor de texto de sua preferência.
+
+---
 
 ## Desafio 2 - Automação de 2 funcionalidades front-end.
 
@@ -40,7 +50,12 @@ Este desafio foi resolvido com a construção da resolução na plataforma Postm
 1.  Primeiro, será necessário importar a Collection, com o enviroment onde contém as váriaveis usadas para melhor entendimento e padronização do código, usando o botão:
 
     [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/01a18f4a2110bc50eba2#?env%5BDesafio%20-%20Wealth%20Systems%5D=W3sia2V5IjoidXNlcl9pZCIsInZhbHVlIjoiNCIsImVuYWJsZWQiOnRydWV9LHsia2V5IjoidXJsIiwidmFsdWUiOiJodHRwOi8vanNvbnBsYWNlaG9sZGVyLnR5cGljb2RlLmNvbS91c2VycyIsImVuYWJsZWQiOnRydWV9XQ==)
-    > Quando acessado, ele deverá abrir o aplicativo do Postman, já importando o código necessário.
+    
+    Quando acessado, ele deverá abrir o aplicativo do Postman, já importando o código necessário.
+
+    ##### Lembrando que será necessário habilitar o enviroment "Desafio - Wealth Systems" para que as váriaveis utilizadas no projeto possam funcionar:
+
+    ![Enviroment](./images/scrsht_postman_enviroment.png "Enviroment")
     
 2.  Com o aplicativo do Postman aberto, deverá então dar "Send" nas 4 requisições criadas à API. *Ou clicar no botão "Runner" na parte superior*. Logo abaixo, verá uma guia "Tests Results", onde irá conter os logs dos tests criados.
 
@@ -50,4 +65,4 @@ Este desafio foi resolvido com a construção da resolução na plataforma Postm
 
     ![Tests Codes](./images/scrsht_postman_tests.png "Tests Codes")
 
-    
+---
