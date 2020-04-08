@@ -3,7 +3,7 @@ Meu projeto para o desafio proposto pela Wealth Systems para a vaga de Analista 
 
 ## Desafio 1 - Cenários de testes.
 
-A resolução deste desafio foi desenvolvida no Visual Studio Code, com os cenários de testes escritos em Gherkin, **em inglês** (para aproveitar melhor o highlighting do código e sintáxe), analisando o protótipo fornecido, descrevendo 3 features, com 2 cenários em cada uma delas, totalizando 6 cenários de testes para a imagem.
+A resolução deste desafio foi desenvolvida no Visual Studio Code, com os cenários de testes escritos em Gherkin, **em inglês** (para aproveitar melhor o highlighting do código e sintáxe), analisando o protótipo fornecido, descrevendo 3 features, com 2/3 cenários em cada uma delas, totalizando 7 cenários de testes para a imagem.
 
 > Se necessário a versão em português dos cenários, poderei fornecer, reescrevendo e atualizando o repositório.
 
