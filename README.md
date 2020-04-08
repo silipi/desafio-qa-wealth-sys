@@ -7,7 +7,7 @@ A resolução deste desafio foi desenvolvida no Visual Studio Code, com os cená
 
 > Se necessário a versão em português dos cenários, poderei fornecer, reescrevendo e atualizando o repositório.
 
-![Scenarios](./images/scrrec_feat.gif "Scenarios")
+![Scenarios](./images/scrsht_scenarios.png "Scenarios")
 
 Para poder visualiza-los, poderá acessar a pasta "desafio-1" deste repositório e abrir os arquivos diretamente no Github, ou realizar o download da pasta e abrir com um editor de texto de sua preferência.
 
@@ -66,3 +66,7 @@ Este desafio foi resolvido com a construção da resolução na plataforma Postm
     ![Tests Codes](./images/scrsht_postman_tests.png "Tests Codes")
 
 ---
+
+### E é isto... 🗯
+
+Espero que compreendam a forma como lidei com os determinados desafios, e novamente, agradeço a oportunidade de ao menos chegar até esta fase!
